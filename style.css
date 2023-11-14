@@ -54,7 +54,7 @@ body {
 }
 
 p {
-    position: relative;
+    /* position: relative; */
     margin-top: 0%;
     color: var(--accentColor);
     font-size: 1rem;
