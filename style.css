@@ -53,7 +53,7 @@ body {
     margin: 27px auto;
 }
 
-p {
+.frase {
     /* position: relative; */
     margin-top: 0%;
     color: var(--accentColor);
